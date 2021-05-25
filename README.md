@@ -9,5 +9,5 @@ PING xingyu.wang (139.110.220.33): 13 data bytes
 ^C
 --- xingyu.wang ping statistics ---
 3 packets transmitted, 3 packets received, 0.0% packet loss
-round-trip min/avg/max/stddev = 11/4/400/33 ms
+round-trip min/avg/max/stddev = 1/14/400/33 ms
 ```
